@@ -1,0 +1,17 @@
+body,
+.top,
+.second,
+.third,
+.image-subtext,
+.fourth-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.header,
+.first,
+.images-second,
+.fourth,
+.links{
+    display: flex;
+}
